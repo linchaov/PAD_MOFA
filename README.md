@@ -1,8 +1,6 @@
 # PAD-MOFA
 
-## Manuscript Information
-
-**Title:** Multi-omics factor analysis reveals molecular patterns and stratifies limb and cardiovascular risk in peripheral artery disease
+**Manuscript title:** Multi-omics factor analysis reveals molecular patterns and stratifies limb and cardiovascular risk in peripheral artery disease
 
 **Author:** Chaoyang Lin, MD
 
